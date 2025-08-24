@@ -18,5 +18,6 @@ Amigo Secreto es un juego tradicional donde los participantes reciben aleatoriam
 
 1. Clona el repositorio.
 2. Sigue las instrucciones en la documentación para ejecutar el proyecto.
+## Resultado
 
 ¡Feliz intercambio!
